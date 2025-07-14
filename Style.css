@@ -1,0 +1,20 @@
+p{
+    font-size: 24px;
+    text-align:left;
+    background-color: aqua;
+}
+.a{
+    font-size: 24px;
+    text-align:Right;
+    background-color: blueviolet;
+}
+.b{
+    font-size: 24px;
+    text-align:center;
+    background-color: azure;
+}
+.c{
+    font-size: 24px;
+    text-align:bottom;
+    background-color: blueviolet;
+}
