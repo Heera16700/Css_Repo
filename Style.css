@@ -7,14 +7,24 @@ p{
     font-size: 24px;
     text-align:Right;
     background-color: blueviolet;
+     text-decoration-line:overline;
+  text-decoration-color: rgb(16, 16, 19);
+  text-decoration-thickness:4px;
 }
 .b{
     font-size: 24px;
     text-align:center;
+    text-decoration-line:line-through;
+    text-decoration-color:rgb(148, 45, 45);
+    text-decoration-style: wavy;
+    text-decoration-thickness: 2px;
     background-color: azure;
 }
 .c{
     font-size: 24px;
-    text-align:bottom;
+    text-align:justify;
     background-color: blueviolet;
+/* text-decoration-line:underline; */
+text-decoration: underline dotted rgb(44, 42, 42);
+text-decoration-line: ;
 }
