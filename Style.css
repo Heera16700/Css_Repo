@@ -26,5 +26,5 @@ p{
     background-color: blueviolet;
 /* text-decoration-line:underline; */
 text-decoration: underline dotted rgb(44, 42, 42);
-text-decoration-line: ;
+text-decoration-line: overline underline;
 }
